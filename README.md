@@ -1,2 +1,0 @@
-# shopbot-test
-jdjs
